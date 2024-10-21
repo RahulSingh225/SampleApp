@@ -1,0 +1,93 @@
+[
+  {
+    "text": "foo",
+    "color": "red",
+    "textStyle": {
+      "color": "black",
+      "fontFamily": "monospace"
+      
+    }
+  },
+  {
+    "text": "foo",
+    "color": "white",
+    "textStyle": {
+      "color": "black",
+      "fontFamily": "monospace"
+      
+    }
+  },
+  {
+    "text": "foo",
+    "color": "red",
+    "textStyle": {
+      "color": "black",
+      "fontFamily": "monospace"
+      
+    }
+  },
+  {
+    "text": "foo",
+    "color": "white",
+    "textStyle": {
+      "color": "black",
+      "fontFamily": "monospace"
+      
+    }
+  },
+  {
+    "text": "foo",
+    "color": "red",
+    "textStyle": {
+      "color": "black",
+      "fontFamily": "monospace"
+      
+    }
+  },
+  {
+    "text": "foo",
+    "color": "white",
+    "textStyle": {
+      "color": "black",
+      "fontFamily": "monospace"
+      
+    }
+  },
+  {
+    "text": "foo",
+    "color": "red",
+    "textStyle": {
+      "color": "black",
+      "fontFamily": "monospace"
+      
+    }
+  },
+  {
+    "text": "foo",
+    "color": "white",
+    "textStyle": {
+      "color": "black",
+      "fontFamily": "monospace"
+      
+    }
+  },
+  {
+    "text": "foo",
+    "color": "red",
+    "textStyle": {
+      "color": "black",
+      "fontFamily": "monospace"
+      
+    }
+  },
+  {
+    "text": "foo",
+    "color": "white",
+    "textStyle": {
+      "color": "black",
+      "fontFamily": "monospace"
+      
+    }
+  }
+  
+]
